@@ -1,4 +1,4 @@
-# 🚲 Bike Sales Analysis – Excel Project
+#  Bike Sales Analysis – Excel Project
 
 ## 📌 Project Overview
 This project analyzes bike sales data to identify customer purchasing patterns and key sales insights.
