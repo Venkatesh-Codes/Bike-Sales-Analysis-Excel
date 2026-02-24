@@ -38,7 +38,4 @@ The goal is to understand how factors like age, income, marital status, and regi
 
 ---
 
-## 📁 File Included
-- Bike_Sales_Dashboard.xlsx
 
----
